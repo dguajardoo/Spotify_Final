@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2012\Projects\Spotify\Spotify\bin\Spotify.dll
+c:\users\david\documents\visual studio 2012\Projects\Spotify\Spotify\bin\Spotify.pdb
+c:\users\david\documents\visual studio 2012\Projects\Spotify\Spotify\obj\Debug\Spotify.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\Spotify\Spotify\obj\Debug\Spotify.dll
+c:\users\david\documents\visual studio 2012\Projects\Spotify\Spotify\obj\Debug\Spotify.pdb
